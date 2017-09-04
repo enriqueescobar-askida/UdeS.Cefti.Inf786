@@ -1,0 +1,17 @@
+# Suscitez-vous la jalousie et l’envie de vos collègues?
+https://www.jobboom.com/carriere/suscitez-jalousie-lenvie/
+*Votre réussite est tout à votre honneur et vous pouvez en être fier! Il est cependant possible que ce succès suscite chez des pairs des réactions indésirables telles que la jalousie et l’envie. Les gens qui éprouvent ces sentiments à votre égard ne sont pas des alliés, bien au contraire. Autant être conscient de ce que ressent réellement votre entourage, car alors vous pourrez faire des choix en toute connaissance de cause.*
+## Mépris
+Le mépris entraîne de fortes réactions corporelles : une augmentation du rythme cardiaque, une augmentation de la température du corps, des contractions musculaires au niveau du visage, du cou et des membres supérieurs. La bouche et le nez sont des éléments particulièrement éloquents.
+
+Généralement, on observe une montée de la lèvre supérieure sur un côté. Les narines se dilatent fortement. L’expression faciale peut durer quelques secondes, mais lorsque les gens font attention à ne pas laisser transparaitre leurs émotions, elle est rapidement remplacée par un masque plus neutre. La plupart du temps, les gens surveillent les yeux pour connaitre l’intention ou l’état de l’autre. Pourtant c’est la bouche qui est la plus révélatrice de ce qui se passe dans la tête!
+## Rejet
+Le rejet est bien visible sur le corps. Tout d’abord, il faut savoir qu’il est difficile à camoufler. L’émotion étant intense, elle provoque un léger éloignement du corps : votre interlocuteur va incliner son dos de façon à s’éloigner inconsciemment de vous.
+
+Proximité et rejet ne vont pas de pair. Les poings et la bouche vont se fermer, par instinct de protection. La contraction musculaire est importante au niveau des mâchoires. Les sourcils se froncent. De grâce, si vous observez ces signes, prenez une pause. Tout ce que vous direz par la suite sera mal interprété. Rien de bon ne pourra en sortir. L’idée n’est pas d’imposer votre point de vue à tout prix ni d’avoir raison mais bien d’établir des relations saines.
+## Sabotage
+Lorsque la jalousie et l’envie sont mal gérées, elles entraînent des comportements de sabotage. Si votre interlocuteur entre dans ce mode, il surveillera vos réactions afin de vous piéger. Cela implique qu’il focalisera son regard sur vous, en le détournant quand vous le regarderez. Il aura très peu de clignements de paupières, peu de gestes : son corps est en attente du moment idéal. Demeurez détendu, souriez. Idéalement, touchez-le sur le bras, l’épaule, le dos.
+
+Il est plus difficile pour l’humain de s’en prendre à un pair qui lui manifeste de l’attention positive. Mais ne feignez pas. Si cet interlocuteur suscite en vous du mépris ou de la colère, prenez le temps d’accueillir cette émotion. Elle modifie la chimie de votre corps et de votre cerveau. Elle est visible et peut être ressentie.
+## Conversation
+Face à des réactions de ce type, il est important d’avoir une conversation saine, dans un endroit neutre. Assurez-vous que vous ne serez pas dérangé, que votre interlocuteur est confortablement assis et qu’il n’est pas attendu ailleurs. Nommez des faits, sans porter de jugement, sans faire d’accusation. Et surtout, écoutez ce que l’autre a à vous dire. Cela ne signifie pas que ses propos reflètent la réalité, mais ils témoignent de son besoin non comblé. Son besoin lui appartient. À vous de voir si vous souhaitez garder cette personne dans votre entourage.
