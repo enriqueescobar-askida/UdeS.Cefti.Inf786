@@ -7,3 +7,15 @@ Il y aura 20% de pénalité par jour de retard :
 * retard entre 2 et 3 jours (60%),
 * retard entre 3 et 4 jours (80%),
 * retard de plus de quatre jours avec pénalité maximale de 100%.
+
+## Membres
+
+Armand.Dayang.Nana@USherbrooke.ca
+dayang.armand@gmail.com
+
+
+## Google Drive Folder
+
+
+## Google Drive File
+
