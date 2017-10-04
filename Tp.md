@@ -9,11 +9,20 @@ Il y aura 20% de pénalité par jour de retard :
 * retard de plus de quatre jours avec pénalité maximale de 100%.
 
 ## Membres
+Enrique Escobar
+tel: 514-690-8398
+skype: enrique.escobar@axon-id.com
 
+Armand DAYANG NANA
+tel: 514-431-3984
+skype: dayang nana armand
 Armand.Dayang.Nana@USherbrooke.ca
 dayang.armand@gmail.com
 
-
+Guichard Suy
+skype: suygui
+tel: 514-268-6559
+Guichard.Suy@usherbrooke.ca
 ## Google Drive Folder
 
 
