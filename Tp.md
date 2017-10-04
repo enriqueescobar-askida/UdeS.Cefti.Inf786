@@ -13,7 +13,7 @@ Enrique Escobar
 tel: 514-690-8398
 skype: enrique.escobar@axon-id.com
 
-Armand DAYANG NANA
+Armand Dayang Nana
 tel: 514-431-3984
 skype: dayang nana armand
 Armand.Dayang.Nana@USherbrooke.ca
