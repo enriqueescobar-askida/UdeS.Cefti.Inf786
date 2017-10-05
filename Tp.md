@@ -16,6 +16,19 @@ tel: 514-690-8398
 
 skype: enrique.escobar@axon-id.com
 
+dante.enrique.escobar.espinoza@usherbrooke.ca
+
+
+Franois Ludger
+
+tel: 514-688-6164
+
+skype: 
+
+@usherbroke.ca
+
+francois.ludger@gmail.com
+
 
 Armand Dayang Nana
 
@@ -35,6 +48,8 @@ skype: suygui
 tel: 514-268-6559
 
 Guichard.Suy@usherbrooke.ca
+
+sg.eng65@gmail.com
 
 ## Google Drive Folder
 
