@@ -10,46 +10,12 @@ Il y aura 20% de pénalité par jour de retard :
 
 ## Membres
 
-Enrique Escobar
-
-tel: 514-690-8398
-
-skype: enrique.escobar@axon-id.com
-
-dante.enrique.escobar.espinoza@usherbrooke.ca
-
-
-Franois Ludger
-
-tel: 514-688-6164
-
-skype: 
-
-@usherbroke.ca
-
-francois.ludger@gmail.com
-
-
-Armand Dayang Nana
-
-tel: 514-431-3984
-
-skype: dayang nana armand
-
-Armand.Dayang.Nana@USherbrooke.ca
-
-dayang.armand@gmail.com
-
-
-Guichard Suy
-
-skype: suygui
-
-tel: 514-268-6559
-
-Guichard.Suy@usherbrooke.ca
-
-sg.eng65@gmail.com
+Prenom | Nom | Tel | Skype | Email UdeS | Gmail
+---------|----------|---------|---------|----------|---------
+ Enrique | Escobar | 514-690-8398 | enique.escobar@axon-id.com | dante.enrique.escobar.espinoza@usherbrooke.ca | escobarebio@gmail.com
+ Francois | Ludger | 514-688-6164 | ? | @usherbroke.ca | francois.ludger@gmail.com
+ Armand | Dayang Nana | 514-431-3984 | dayang nana armand | Armand.Dayang.Nana@usherbroke.ca | dayang.armand@gmail.com
+ Guichard | Suy | 514-268-6559 | suygui | Guichard.Suy@usherbrooke.ca | sg.eng65@gmail.com
 
 ## Google Drive Folder
 
