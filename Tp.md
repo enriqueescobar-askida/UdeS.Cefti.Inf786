@@ -13,7 +13,7 @@ Il y aura 20% de pénalité par jour de retard :
 Prenom | Nom | Tel | Skype | Email UdeS | Gmail
 ---------|----------|---------|---------|----------|---------
  Enrique | Escobar | 514-690-8398 | enique.escobar@axon-id.com | dante.enrique.escobar.espinoza@usherbrooke.ca | escobarebio@gmail.com
- Francois | Ludger | 514-688-6164 | ? | francois.ludger@usherbroke.ca | francois.ludger@gmail.com
+ Francois | Ludger | 514-688-6164 | albaal.kiochis1 | francois.ludger@usherbroke.ca | francois.ludger@gmail.com
  Armand | Dayang Nana | 514-431-3984 | dayang nana armand | Armand.Dayang.Nana@usherbroke.ca | dayang.armand@gmail.com
  Guichard | Suy | 514-268-6559 | suygui | Guichard.Suy@usherbrooke.ca | sg.eng65@gmail.com
 
