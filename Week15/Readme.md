@@ -20,6 +20,12 @@
 
 # Stratégies associées
 
+## Environement
+
+## Analyse
+
+## Stratégie associée au profil organisationnel
+
 # Les enjeux aux changements chez l’être humain
 
 # Les leviers et obstacles
