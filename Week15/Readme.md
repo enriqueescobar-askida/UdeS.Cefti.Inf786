@@ -28,9 +28,23 @@
 
 # Les enjeux aux changements chez l’être humain
 
+## La phase d’éveil
+
+## La Transition
+
+## La ritualisation
+
 # Les leviers et obstacles
 
+## L’approche de Kurt Lewin
+
+## Identification des leviers et obstacles
+
 # La prévention des résistances au changement
+
+## Adaptation  au changement
+
+## Les facteurs qui influencent l’intégration d’un changement
 
 # Plan d’action
 
