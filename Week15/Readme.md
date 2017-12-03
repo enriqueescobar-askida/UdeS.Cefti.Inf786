@@ -1,20 +1,20 @@
-#Préalables
+# Préalables
 
-#L’analyse préliminaire
+# L’analyse préliminaire
 
-#Stratégies associées
+# Stratégies associées
 
-#Les enjeux aux changements chez l’être humain
+# Les enjeux aux changements chez l’être humain
 
-#Les leviers et obstacles
+# Les leviers et obstacles
 
-#La prévention des résistances au changement
+# La prévention des résistances au changement
 
-#Plan d’action
+# Plan d’action
 
-#Gestion de la transition
+# Gestion de la transition
 
-#Le monitorage d’un changement
+# Le monitorage d’un changement
 
 
 
