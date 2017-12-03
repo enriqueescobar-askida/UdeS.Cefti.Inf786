@@ -76,5 +76,11 @@
 
 # Le monitorage d’un changement
 
+## Réaction d’une organisation à l’endroit d’un changement en cours
+
+## Configurations organisationnelles du changement et approches de gestion
+
+## La détermination de la configuration d’une Organisation
+
 
 
