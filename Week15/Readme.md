@@ -1,6 +1,22 @@
 # Préalables
 
+## Autonomie versus réseau de soutien
+
+## Ampleur du changement
+
+## Pyramide organisationnelle
+
+## Véhicules structurels
+
 # L’analyse préliminaire
+
+## Identification du changement
+
+## Identification des parties prenantes
+
+## Matrice d’interet - influence
+
+## Acteurs en présence
 
 # Stratégies associées
 
