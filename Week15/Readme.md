@@ -1,5 +1,9 @@
 # Préalables
 
+Volume 2 Numéro 1 Septembre 2004
+
+En septembre 2000
+
 ## Autonomie versus réseau de soutien
 
 FSA système intégré de gestion SAP de ses activités financières
@@ -60,7 +64,36 @@ Centre d’assistance technique
 
 ## Identification du changement
 
+On veut s’assurer que le passage entre le système existant et le nouveau se fera dans les meilleures conditions et que l’on saura vraiment tirer partie de l’adoption d’un tel système intégré de gestion. 
+
 ## Identification des parties prenantes
+
+Le directeur du service des finances est <<... le parrain ou l’initiateur du projet SAP>>
+
+la direction des deux centres hospitaliers et leurs conseils d’administration respectifs de la pertinence de ce projet
+
+Dir F   -> CA LaSalle -> CA Verdun
+
+        -> Dir Adj F
+        -> Chef Approv
+        -> Chef Paie
+        -> Chef Compta
+        
+    `----> Pilote (interne / externe?) => interne => Dir Adj F LaSalle
+
+Complice avec Dir F, legitimite
+
+Rencontres une fois par deux semaines afin d’en suivre la progression et d’assurer le respect de l’échéancier, des coûts et des objectifs visés. Selon le directeur, une bonne entente et un esprit de camaraderie caractérisent cette équipe, facilitant la prise de décision.
+
+C. Gestion du Changement: la communication, les relations syndicales et la formation.
+
+CGI: planifie l’approche, les activités et l’échéancier de réalisation des activités de gestion du changement en s’appuyant sur la méthodologie d’implantation de SAP, et ce, dans la continuité des activités déjà mises en place par le comité et dans le respect du rythme en mode accéléré imposé par le projet.
+
+C.D. et C.G.C : strategie
+* identification des personnes touchées selon profil (matrice impact) prioriser efforts
+* identification des risques (nature et degré) selon les divers groupes d’intervenants ciblés -minimiser risques-
+* développement d’un plan d’action permettant de soutenir l’organisation et les personnes
+* stratégie de communication qui dicte « comment » et « quand » les informations relatives à la progression du projet doivent être présentées et communiquées
 
 ## Matrice d’interet - influence
 
