@@ -2,9 +2,57 @@
 
 ## Autonomie versus réseau de soutien
 
+FSA système intégré de gestion SAP de ses activités financières
+
+pénurie des ressources autant financières qu’humaines
+
+confier la direction de ce projet à un groupe restreint de personnes
+
+rôles et responsabilités de ces personnes devront être définis plus précisément, tâche qui incombera au chef de projet
+
+la direction des finances se questionne davantage sur le type de pilotage à mettre en place
+
 ## Ampleur du changement
 
+On veut s’assurer que le passage entre le système existant et le nouveau se fera dans les meilleures conditions et que l’on saura vraiment tirer partie de l’adoption d’un tel système intégré de gestion
+
 ## Pyramide organisationnelle
+
+### C.D.
+
+Dir. des finances (CH)
+
+Directeur adjoint des finances / chef de projet (CH)
+
+Chef du service de l’approvisionnement (CH)
+
+Chef du service de la comptabilité (CH)
+
+Chef du service de la paie (CH)
+
+Chef de projet (CGI)
+
+### C. Gestion du Changement
+
+Directeur adjoint des finances / chef de projet (CH)
+
+2 utilisateurs experts (CH)
+
+Représentant RH – rel. syndicales (CH)
+
+Représentant RH – formation (CH)
+
+Représentant RH – communication (CH)
+
+Consultante en gestion du changement (CGI)
+
+### C. Soutien FSA
+
+Centre d’assistance technique
+
+Équipe de support – application SAP
+
+Équipe de support – infrastructure
 
 ## Véhicules structurels
 
