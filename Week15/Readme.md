@@ -62,6 +62,13 @@ Centre d’assistance technique
 
 # L’analyse préliminaire
 
+Septembre - octobre 2000 : reunon CD
+
+Novembre 2000 : lancement a l'interne
+
+Avril 2001 : Go Live -> deux centres
+
+
 ## Identification du changement
 
 On veut s’assurer que le passage entre le système existant et le nouveau se fera dans les meilleures conditions et que l’on saura vraiment tirer partie de l’adoption d’un tel système intégré de gestion. 
@@ -78,7 +85,7 @@ Dir F   -> CA LaSalle -> CA Verdun
         -> Chef Approv
         -> Chef Paie
         -> Chef Compta
-        
+
     `----> Pilote (interne / externe?) => interne => Dir Adj F LaSalle
 
 Complice avec Dir F, legitimite
@@ -94,6 +101,12 @@ C.D. et C.G.C : strategie
 * identification des risques (nature et degré) selon les divers groupes d’intervenants ciblés -minimiser risques-
 * développement d’un plan d’action permettant de soutenir l’organisation et les personnes
 * stratégie de communication qui dicte « comment » et « quand » les informations relatives à la progression du projet doivent être présentées et communiquées
+
+C. Implantation
+* chef de projet
+* specialiste(s)) de 4 module(s) SAP = analyste fonctionnel (1-2 / module)
+* experts utilisateurs -> analystes -> formateurs (choisis par CD formation SAP pa CGI)
+* 2-3 expets / analyste mais juste 1 a demi tache!!! 15% salaire incitatif
 
 ## Matrice d’interet - influence
 
