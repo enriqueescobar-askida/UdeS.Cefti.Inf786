@@ -71,7 +71,13 @@ Avril 2001 : Go Live -> deux centres
 
 ## Identification du changement
 
-On veut s’assurer que le passage entre le système existant et le nouveau se fera dans les meilleures conditions et que l’on saura vraiment tirer partie de l’adoption d’un tel système intégré de gestion. 
+On veut s’assurer que le passage entre le système existant et le nouveau se fera dans les meilleures conditions et que l’on saura vraiment tirer partie de l’adoption d’un tel système intégré de gestion.
+
+Communication informelle -bouche a oreille- par CDG de taille restreinte 3-15 employes:
+* journal interne
+* forums de discussion
+* rencontres muffins-cafe
+* 2 sondages CDG et Dir Fin
 
 ## Identification des parties prenantes
 
@@ -109,6 +115,15 @@ C. Implantation
 * 2-3 expets / analyste mais juste 1 a demi tache!!! 15% salaire incitatif
 
 ## Matrice d’interet - influence
+
+Dir Fin rencontre les resistants au changement -comptes clients systeme > SAP-
+
+Avantages moins perceptibles, difficile a vendre.
+
+Fausse croyance de plus de travail. Entrer bcp de donnees tres strucurees, lourd et complexe.
+Charge de projet:
+* Saisir les infos en temps reel
+* rencontre les chefs de service -> impat bloc operatoire eet pharmacie
 
 ## Acteurs en présence
 
